@@ -5,6 +5,7 @@ To simulate the EMG Network Model:
 1. Install python3
 
 Then from the terminal...
+
 2. Install NEURON and NetPyNE:
 >> % pip install neuron 
 >> % pip install netpyne 
